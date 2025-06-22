@@ -32,7 +32,7 @@
           <mxGeometry x="225" y="153" width="30" height="106" as="geometry" />
         </mxCell>
         <mxCell id="b3zSaB6K1o3YGlq_XQhw-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="575" y="167.5" width="30" height="119" as="geometry" />
+          <mxGeometry x="574" y="157" width="30" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
