@@ -31,6 +31,9 @@
         <mxCell id="b3zSaB6K1o3YGlq_XQhw-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="187" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b3zSaB6K1o3YGlq_XQhw-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="616" y="187" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
