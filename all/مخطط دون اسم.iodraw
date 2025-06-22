@@ -67,15 +67,6 @@
             <mxPoint x="433" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTV4FvpRk3cxGpRCxYMF-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.047;exitY=0.225;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="FTV4FvpRk3cxGpRCxYMF-4" target="FTV4FvpRk3cxGpRCxYMF-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="357" y="331" as="sourcePoint" />
-            <mxPoint x="372" y="192" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="283" y="201" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
