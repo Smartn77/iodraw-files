@@ -30,7 +30,7 @@
             <mxPoint x="487.33331298828125" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTV4FvpRk3cxGpRCxYMF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTV4FvpRk3cxGpRCxYMF-3">
+        <mxCell id="FTV4FvpRk3cxGpRCxYMF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="FTV4FvpRk3cxGpRCxYMF-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="486" y="360" as="targetPoint" />
           </mxGeometry>
