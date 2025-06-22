@@ -37,7 +37,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTV4FvpRk3cxGpRCxYMF-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FTV4FvpRk3cxGpRCxYMF-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="399" as="sourcePoint" />
             <mxPoint x="469" y="349" as="targetPoint" />
