@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b3zSaB6K1o3YGlq_XQhw-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fillStyle=hatch;strokeWidth=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="383" y="111" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
