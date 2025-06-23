@@ -149,7 +149,7 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-10" value="1.3" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="329" y="288" width="128" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-30" value="mm&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;managa payment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CR5S34NRGMWdbgVtJbpM-10">
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-30" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;managa payment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CR5S34NRGMWdbgVtJbpM-10">
           <mxGeometry x="8" y="34" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-7" value="1.4" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
