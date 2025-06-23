@@ -182,13 +182,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="CR5S34NRGMWdbgVtJbpM-18">
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CR5S34NRGMWdbgVtJbpM-18" target="CR5S34NRGMWdbgVtJbpM-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725.0000813802083" y="445.66666666666663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-18" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="599" y="216" width="120" height="60" as="geometry" />
+          <mxGeometry x="599" y="216" width="133" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
