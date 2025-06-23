@@ -116,9 +116,6 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="331" y="106" width="128" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="90" y="73" width="148" height="103" as="geometry" />
-        </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="331" y="14" width="128" height="77" as="geometry" />
         </mxCell>
@@ -129,7 +126,7 @@
           <mxGeometry x="329" y="288" width="128" height="77" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-7" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="323" y="390" width="128" height="77" as="geometry" />
+          <mxGeometry x="331" y="389" width="128" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
