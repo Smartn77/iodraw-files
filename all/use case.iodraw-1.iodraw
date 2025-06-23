@@ -210,7 +210,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-38" value="&lt;font color=&quot;#ffffff&quot;&gt;Account info&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="151" y="23" width="83" height="30" as="geometry" />
+          <mxGeometry x="172" y="23" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-39" value="&lt;font color=&quot;#ffffff&quot;&gt;Account info&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="33" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
