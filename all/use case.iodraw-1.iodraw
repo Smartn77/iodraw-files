@@ -147,7 +147,7 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-30" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;managa payment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CR5S34NRGMWdbgVtJbpM-10">
           <mxGeometry x="8" y="34" width="116" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CR5S34NRGMWdbgVtJbpM-7">
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#FFFFFF;entryX=0.106;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR5S34NRGMWdbgVtJbpM-7" target="CR5S34NRGMWdbgVtJbpM-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="125.888916015625" y="441.22224934895837" as="targetPoint" />
           </mxGeometry>
