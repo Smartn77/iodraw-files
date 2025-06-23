@@ -139,7 +139,7 @@
           <mxGeometry x="329" y="195" width="128" height="77" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CR5S34NRGMWdbgVtJbpM-9">
-          <mxGeometry x="36" y="36" width="60" height="30" as="geometry" />
+          <mxGeometry x="15" y="36" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CR5S34NRGMWdbgVtJbpM-10">
           <mxGeometry relative="1" as="geometry">
