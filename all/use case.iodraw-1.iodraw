@@ -227,7 +227,7 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-44" value="&lt;font color=&quot;#ffffff&quot;&gt;Product detals&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="497" y="163" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-45" value="&lt;font color=&quot;#ffffff&quot;&gt;Product detals&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-45" value="&lt;font color=&quot;#ffffff&quot;&gt;transaction Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="204" y="216" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
