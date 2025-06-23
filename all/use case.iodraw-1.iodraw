@@ -224,6 +224,9 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-42" value="&lt;font color=&quot;#ffffff&quot;&gt;Product detals&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="512" y="95" width="83" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-44" value="&lt;font color=&quot;#ffffff&quot;&gt;Product detals&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="105" width="83" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
