@@ -242,6 +242,9 @@
         <mxCell id="CR5S34NRGMWdbgVtJbpM-52" value="&lt;font color=&quot;#ffffff&quot;&gt;payment uptade&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="491" y="327" width="113" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-53" value="&lt;font color=&quot;#ffffff&quot;&gt;Sales list&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="263" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
