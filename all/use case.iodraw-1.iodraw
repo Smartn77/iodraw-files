@@ -123,7 +123,7 @@
           <mxGeometry x="308" y="117" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="117" width="200" height="200" as="geometry" />
+          <mxGeometry x="313" y="9" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
