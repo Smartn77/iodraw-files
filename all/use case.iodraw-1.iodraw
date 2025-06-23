@@ -114,7 +114,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CR5S34NRGMWdbgVtJbpM-3" value="1.1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="331" y="106" width="128" height="77" as="geometry" />
+          <mxGeometry x="331" y="106" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CR5S34NRGMWdbgVtJbpM-3">
+          <mxGeometry x="40" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-8" value="1.0" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="331" y="14" width="128" height="77" as="geometry" />
