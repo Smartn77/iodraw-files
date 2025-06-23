@@ -120,9 +120,9 @@
           <mxGeometry x="571" y="149" width="109" height="95" as="geometry" />
         </mxCell>
         <mxCell id="CR5S34NRGMWdbgVtJbpM-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308" y="117" width="113" height="77" as="geometry" />
+          <mxGeometry x="308" y="117" width="128" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="CR5S34NRGMWdbgVtJbpM-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CR5S34NRGMWdbgVtJbpM-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="313" y="9" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
